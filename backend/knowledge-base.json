@@ -1,0 +1,256 @@
+{
+  "institution": {
+    "name": "Indian Institute of Management Indore",
+    "established": "1996",
+    "location": "Indore, Madhya Pradesh, India",
+    "vision": "To be a world-class business school contributing to the development of management professionals and thought leaders.",
+    "director": {
+      "name": "Prof. Himanshu Rai",
+      "email": "director@iimidr.ac.in",
+      "position": "Director, IIM Indore"
+    },
+    "accreditations": [
+      "AMBA (Association of MBAs, London)",
+      "AACSB",
+      "Triple Crown Accreditation"
+    ],
+    "ranking": "Ranked 3rd Best Indian B-school globally (FT Rankings 2025), #69 in FT Global MBA Rankings",
+    "website": "https://iimidr.ac.in",
+    "contact_email": "admissions@iimidr.ac.in"
+  },
+  "academic_programs": {
+    "pgp": {
+      "name": "Post Graduate Programme in Management (PGP)",
+      "duration": "2 years",
+      "type": "Full-time MBA",
+      "intake": 240,
+      "specializations": [
+        "Finance",
+        "Marketing",
+        "Operations",
+        "Strategy",
+        "Business Analytics",
+        "General Management"
+      ],
+      "eligibility": "Bachelor's degree with 50% marks, CAT score required",
+      "fees": "₹24 lakhs",
+      "placements": "100% placement rate, Average salary ₹20 LPA, Highest ₹45+ LPA",
+      "accreditation": "AMBA accredited"
+    },
+    "ipm": {
+      "name": "Integrated Programme in Management (IPM)",
+      "duration": "5 years",
+      "type": "Integrated program for 12th pass students",
+      "intake": 120,
+      "eligibility": "12th pass from any stream, IPMAT entrance exam",
+      "fees": "₹24 lakhs",
+      "placements": "100% placement rate, Average salary ₹15-18 LPA",
+      "accreditation": "AMBA accredited (4th and 5th year)"
+    },
+    "epgp": {
+      "name": "Executive Post Graduate Programme in Management (EPGP)",
+      "duration": "1 year",
+      "type": "Executive MBA",
+      "eligibility": "5+ years work experience",
+      "accreditation": "AMBA accredited",
+      "features": "Intensive residential program with international immersion at SDA Bocconi, Milan"
+    },
+    "pgphrm": {
+      "name": "Post Graduate Programme in Human Resource Management (PGP-HRM)",
+      "type": "Specialized MBA in HRM",
+      "focus": "Human Resource Management"
+    },
+    "dpm": {
+      "name": "Doctoral Programme in Management (DPM)",
+      "type": "PhD program",
+      "focus": "Research and academic development"
+    },
+    "edpm": {
+      "name": "Executive Doctoral Programme in Management (EDPM)",
+      "type": "Executive PhD",
+      "target": "Working professionals"
+    }
+  },
+  "placements": {
+    "placement_rate": "100% for PGP and IPM",
+    "average_salary_pgp": "₹20 LPA",
+    "highest_salary_pgp": "₹45+ LPA",
+    "average_salary_ipm": "₹15-18 LPA",
+    "top_recruiters": [
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Accenture",
+      "Deloitte",
+      "KPMG",
+      "EY",
+      "PwC",
+      "Flipkart",
+      "Infosys",
+      "TCS",
+      "Cognizant",
+      "HCL",
+      "Capgemini",
+      "IBM"
+    ],
+    "sectors": [
+      "Consulting",
+      "Finance",
+      "Technology",
+      "E-commerce",
+      "BFSI",
+      "Operations",
+      "Analytics",
+      "Manufacturing"
+    ]
+  },
+  "faculty": {
+    "full_time_faculty": "Distinguished and eminent members with PhD from top institutions",
+    "departments": [
+      "Marketing",
+      "Strategic Management",
+      "Finance & Accounting",
+      "Operations Management & Quantitative Techniques",
+      "Economics",
+      "Information Systems",
+      "Organizational Behaviour & HRM",
+      "Communication",
+      "Humanities & Social Sciences"
+    ],
+    "research_focus": "Management research, case studies, applied learning",
+    "international_collaborations": "Yes, with leading global institutions including SDA Bocconi, Emory University, and others"
+  },
+  "campus": {
+    "location": "Indore, Madhya Pradesh",
+    "facilities": [
+      "Academic Block",
+      "Learning Centre",
+      "Sports Complex",
+      "Stadium",
+      "Hostels (Male and Female)",
+      "Dining facilities",
+      "Fitness center",
+      "Library",
+      "Guest house"
+    ],
+    "accommodation": "On-campus residential facilities for students",
+    "infrastructure": "State-of-the-art facilities with modern amenities"
+  },
+  "student_life": {
+    "activities": [
+      "Student clubs",
+      "Events",
+      "Sports",
+      "Cultural activities",
+      "Diversity initiatives",
+      "Student committees"
+    ],
+    "committees": [
+      "Student Placement Committee",
+      "Student Activity Committee",
+      "Anti-Ragging Committee"
+    ]
+  },
+  "news_and_events": {
+    "recent_events": [
+      {
+        "title": "News And Events – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/"
+      },
+      {
+        "title": "Sound Garden Inaugurated at IIM Indore – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/sound-garden-inaugurated-at-iim-indore/"
+      },
+      {
+        "title": "Eduniversal World Convention 2025: Bridging Academia, Industry, and Innovation – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/eduniversal-world-convention-2025-bridging-academia-industry-and-innovation/"
+      },
+      {
+        "title": "Global Leaders in Management Education Gather at IIM Indore for the Eduniversal World Convention 2025 – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/global-leaders-in-management-education-gather-at-iim-indore-for-the-eduniversal-world-convention-2025/"
+      },
+      {
+        "title": "18th All India Conference of China Studies Concludes at IIM Indore – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/18th-all-india-conference-of-china-studies-concludes-at-iim-indore/"
+      },
+      {
+        "title": "18th All India Conference of China Studies (AICCS) Inaugurated at IIM Indore – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/18th-all-india-conference-of-china-studies-aiccs-inaugurated-at-iim-indore/"
+      },
+      {
+        "title": "IIM Indore hosts “Sport and Business Conference 2.0” – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/iim-indore-hosts-sport-and-business-conference-2-0/"
+      },
+      {
+        "title": "Eduniversal Convention 2025 – IIM Indore",
+        "url": "https://iimidr.ac.in/announcements/eduniversal-convention-2025/"
+      },
+      {
+        "title": "Anveshan Startup Challenge 1.0 – IIM Indore",
+        "url": "https://iimidr.ac.in/announcements/anveshan-startup-challenge-1-0/"
+      },
+      {
+        "title": "Anveshan Research Grant – Winners Announcement – IIM Indore",
+        "url": "https://iimidr.ac.in/announcements/research-grant-proposal/"
+      },
+      {
+        "title": "Announcements – IIM Indore",
+        "url": "https://iimidr.ac.in/announcements/"
+      },
+      {
+        "title": "Journals, Magazines & Newspapers (Print) – IIM Indore",
+        "url": "https://iimidr.ac.in/facilities/library/journals-magazines-newspapers-print/"
+      },
+      {
+        "title": "Newsletter – IIM Indore",
+        "url": "https://iimidr.ac.in/alumni/newsletter/"
+      },
+      {
+        "title": "IIM Indore Alumnus SP Siddharth Kaushal to Receive 7th G Files Governance Award 2019 – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/iim-indore-alumnus-sp-siddharth-kaushal-to-receive-7th-g-files-governance-award-2019/"
+      },
+      {
+        "title": "FPM Alumnus Receives ‘Positive Health Award’ – IIM Indore",
+        "url": "https://iimidr.ac.in/news-and-events/fpm-alumnus-receives-positive-health-award/"
+      }
+    ],
+    "foundation_day": "October 3rd",
+    "convocation": "Annual event",
+    "conferences": [
+      "CERE (Centre for Excellence in Research & Education)",
+      "IRIS",
+      "Eduniversal World Convention"
+    ]
+  },
+  "admissions": {
+    "contact": "admissions@iimidr.ac.in",
+    "website": "https://iimidr.ac.in",
+    "application_process": "Online application through official website",
+    "entrance_exams": [
+      "CAT (for PGP)",
+      "IPMAT (for IPM)",
+      "GMAT/GRE (for EPGP)"
+    ],
+    "key_dates": "Check official website for application deadlines"
+  },
+  "policies": {
+    "accreditations": [
+      "AMBA",
+      "AACSB",
+      "Triple Crown"
+    ],
+    "quality_assurance": "Consistent focus on academic excellence",
+    "international_partnerships": "Collaborations with leading global institutions"
+  },
+  "rankings": {
+    "ft_global_mba": "#69 (2025)",
+    "ft_best_indian_bschool": "#3 (2025)",
+    "global_ranking": "Top 1% business schools with Triple Crown accreditation",
+    "note": "IIM Indore is the second IIM to receive Triple Crown accreditation"
+  }
+}

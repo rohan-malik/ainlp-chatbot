@@ -1,0 +1,576 @@
+{
+  "institution": {
+    "name": "Indian Institute of Management Indore",
+    "abbreviation": "IIM Indore",
+    "established": 2009,
+    "location": "Indore, Madhya Pradesh, India",
+    "coordinates": "22.7196° N, 75.8577° E",
+    "website": "https://www.iimidr.ac.in",
+    "email": "admissions@iimidr.ac.in",
+    "phone": "+91-731-2439999",
+    "accreditations": ["AACSB", "EQUIS", "AMBA"],
+    "rankings": {
+      "QS_World_Ranking": "Top 100 in Asia",
+      "Financial_Times": "Top 100 Global MBA",
+      "NIRF": "Top 20 Management Category",
+      "India_Today": "Top 5 B-Schools in India",
+      "Eduniversal": "Participant in World Convention 2025"
+    },
+    "vision": "To be a contextually-relevant business school with world-class academic standards that develops socially-conscious managers, leaders and entrepreneurs",
+    "mission": [
+      "Excellence in management education, research, and training",
+      "Use of contemporary participant-centric pedagogies and teaching methods",
+      "A presence in emerging segments of management education"
+    ],
+    "core_values": [
+      "Academic Excellence",
+      "Social Responsibility",
+      "Ethical Leadership",
+      "Innovation",
+      "Diversity and Inclusion"
+    ]
+  },
+  "academic_programs": {
+    "pgp": {
+      "name": "Post Graduate Programme in Management (PGP)",
+      "type": "Full-time MBA",
+      "duration": "2 years (4 semesters)",
+      "intake": 240,
+      "batch_size": "Two batches of 120 each",
+      "accreditation": "AMBA (Association of MBAs, London)",
+      "specializations": [
+        "Finance",
+        "Marketing",
+        "Operations",
+        "Strategy",
+        "Business Analytics",
+        "General Management"
+      ],
+      "eligibility": {
+        "education": "Bachelor's degree from any discipline with minimum 50% marks",
+        "entrance_exam": "CAT (Common Admission Test)",
+        "cat_score": "Valid CAT score required",
+        "work_experience": "Not mandatory"
+      },
+      "fees": {
+        "total": "₹24 lakhs (2 years)",
+        "per_semester": "₹6 lakhs",
+        "includes": "Tuition, hostel, meals, activities, library"
+      },
+      "placements": {
+        "placement_rate": "100%",
+        "average_salary": "₹20 LPA",
+        "highest_salary": "₹45+ LPA",
+        "median_salary": "₹18 LPA"
+      },
+      "top_recruiters": [
+        "McKinsey & Company",
+        "Goldman Sachs",
+        "Amazon",
+        "Microsoft",
+        "Deloitte",
+        "Accenture",
+        "Flipkart",
+        "Unilever",
+        "ICICI Bank",
+        "Axis Bank",
+        "TCS",
+        "Infosys",
+        "Capgemini",
+        "BCG",
+        "Bain & Company"
+      ],
+      "placement_sectors": {
+        "consulting": "35%",
+        "finance": "25%",
+        "technology": "20%",
+        "fmcg": "10%",
+        "others": "10%"
+      },
+      "international_placements": "20-25% of batch",
+      "curriculum": {
+        "core_courses": 24,
+        "electives": 12,
+        "total_credits": 120,
+        "teaching_methodology": [
+          "Case studies",
+          "Simulations",
+          "Projects",
+          "Internships",
+          "Participant-centric pedagogies"
+        ]
+      }
+    },
+    "ipm": {
+      "name": "Integrated Programme in Management (IPM)",
+      "type": "5-year integrated program",
+      "duration": "5 years (10 semesters)",
+      "intake": 120,
+      "target_audience": "12th pass students from any stream",
+      "eligibility": {
+        "education": "12th pass from any stream",
+        "entrance_exam": "IPMAT (IIM Indore Integrated Programme Management Aptitude Test)"
+      },
+      "fees": "₹24 lakhs (5 years)",
+      "specializations": "Available from 3rd year onwards",
+      "placements": {
+        "placement_rate": "100%",
+        "average_salary": "₹15-18 LPA"
+      },
+      "unique_features": [
+        "Integrated curriculum combining management and liberal arts",
+        "Early career exposure",
+        "International exchange opportunities"
+      ]
+    },
+    "epgp": {
+      "name": "Executive Post Graduate Programme in Management (EPGP)",
+      "type": "Executive MBA",
+      "duration": "1 year (2 semesters)",
+      "intake": 60,
+      "target_audience": "Mid-career professionals with 5+ years experience",
+      "eligibility": {
+        "work_experience": "Minimum 5 years",
+        "entrance_exam": "GMAT/GRE/CAT score",
+        "education": "Bachelor's degree"
+      },
+      "fees": "₹18 lakhs",
+      "format": "Weekend classes + online sessions",
+      "focus": "Executive education, leadership development",
+      "placement": "90%+ placement rate"
+    },
+    "pgp_hrm": {
+      "name": "Post Graduate Programme in Human Resource Management (PGP-HRM)",
+      "type": "Specialized MBA",
+      "duration": "2 years",
+      "focus": "Human Resource Management specialization",
+      "placement_rate": "100%"
+    },
+    "pgpmx": {
+      "name": "Post Graduate Programme in Management for Executives (PGPMX)",
+      "location": "Mumbai",
+      "type": "Executive MBA",
+      "duration": "1 year",
+      "format": "Weekend + online"
+    },
+    "dpm": {
+      "name": "Doctoral Programme in Management (DPM)",
+      "type": "PhD Program",
+      "duration": "3-5 years",
+      "focus": "Research and academic development",
+      "objective": "Master methodological tools of management research and advancement of management knowledge"
+    },
+    "edpm": {
+      "name": "Executive Doctoral Programme in Management (EDPM)",
+      "type": "Executive PhD",
+      "duration": "3-5 years",
+      "target_audience": "Working professionals",
+      "legacy": "Started in 2011, amongst first such programs",
+      "culmination": "PhD in Management"
+    },
+    "efpmg": {
+      "name": "Executive Fellow Programme in Management and Governance (EFPMG)",
+      "type": "Executive program",
+      "focus": "Management and governance"
+    }
+  },
+  "admissions": {
+    "pgp_admission": {
+      "entrance_exam": "CAT (Common Admission Test)",
+      "exam_conducting_body": "IIMs collectively",
+      "exam_date": "November (typically)",
+      "exam_website": "www.iimcat.ac.in",
+      "application_process": [
+        "Register on CAT website",
+        "Take CAT exam in November",
+        "Apply to IIM Indore through official portal",
+        "Participate in Group Discussion (GD)",
+        "Attend Personal Interview (PI)",
+        "Final selection based on composite score"
+      ],
+      "selection_criteria": {
+        "cat_score": "60%",
+        "academic_profile": "20%",
+        "work_experience": "10%",
+        "diversity": "10%"
+      },
+      "important_dates": {
+        "cat_registration": "August-September",
+        "cat_exam": "November",
+        "iim_application": "December",
+        "application_deadline": "December 31",
+        "gd_pi_round": "January-March",
+        "result_announcement": "April",
+        "admission_confirmation": "May"
+      },
+      "application_fee": "₹2,000",
+      "cat_cutoff": "Varies (typically 80+ percentile for shortlist)"
+    },
+    "ipm_admission": {
+      "entrance_exam": "IPMAT (IIM Indore Integrated Programme Management Aptitude Test)",
+      "exam_date": "April (typically)",
+      "eligibility": "12th pass from any stream",
+      "exam_format": "Online, 2 hours, 120 questions",
+      "sections": [
+        "Quantitative Ability",
+        "Logical Reasoning",
+        "Reading Comprehension"
+      ],
+      "application_fee": "₹2,000"
+    }
+  },
+  "faculty": {
+    "total_faculty": 80,
+    "qualifications": "PhD from top international universities",
+    "departments": [
+      "Communication",
+      "Humanities & Social Sciences",
+      "Operations Management & Quantitative Techniques",
+      "Economics",
+      "Information Systems",
+      "Organizational Behaviour & HRM",
+      "Finance & Accounting",
+      "Marketing",
+      "Strategic Management"
+    ],
+    "research_focus": [
+      "Management",
+      "Economics",
+      "Finance",
+      "Marketing",
+      "Operations",
+      "Strategy",
+      "Organizational Behavior",
+      "Business Analytics",
+      "Information Systems",
+      "Human Resource Management"
+    ],
+    "international_collaborations": [
+      "University of Massachusetts, USA",
+      "Erasmus University, Netherlands",
+      "University of Cologne, Germany",
+      "Bocconi University, Italy",
+      "ESSEC Business School, France"
+    ],
+    "faculty_development": [
+      "Regular training and research opportunities",
+      "Seed money grants up to Rs. 100,000 for research projects",
+      "Annual 5-week Faculty Development Programme (FDP)",
+      "Support for literature reviews and research activities"
+    ],
+    "publications": "Faculty publishes in top-tier journals",
+    "research_support": "IIM Indore provides support for research ideas, literature reviews, questionnaire testing, and preliminary research activities"
+  },
+  "research_and_conferences": {
+    "research_publications": "Dedicated research and publications portal",
+    "major_conferences": [
+      {
+        "name": "CERE (Conference on Excellence in Research and Education)",
+        "frequency": "Annual",
+        "editions": "12th edition in 2025",
+        "focus": "Research and education excellence"
+      },
+      {
+        "name": "All India Conference of China Studies",
+        "edition": "18th",
+        "collaboration": "ICS Delhi",
+        "hosted_by": "IIM Indore"
+      }
+    ],
+    "research_areas": [
+      "Management research",
+      "Economics research",
+      "Finance and accounting research",
+      "Marketing research",
+      "Operations research",
+      "Strategic management research"
+    ]
+  },
+  "campus": {
+    "location": {
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "country": "India",
+      "area": "100+ acres",
+      "setting": "Suburban, peaceful environment",
+      "distance_from_city": "20 km from Indore city center"
+    },
+    "facilities": {
+      "academic": [
+        "State-of-the-art classrooms with AV systems",
+        "Computer labs with latest software",
+        "Library with 50,000+ books and journals",
+        "Digital library with e-resources",
+        "Research centers",
+        "Case study lab",
+        "Auditorium"
+      ],
+      "recreational": [
+        "Sports complex with basketball, badminton, tennis courts",
+        "Gymnasium with modern equipment",
+        "Swimming pool",
+        "Outdoor sports fields",
+        "Auditorium with 500+ seating",
+        "Cafeteria with diverse cuisine"
+      ],
+      "residential": [
+        "On-campus hostel for all students",
+        "Separate hostels for boys and girls",
+        "Single and shared room options",
+        "High-speed internet in rooms",
+        "Laundry facilities"
+      ],
+      "health": [
+        "Medical center with doctor on campus",
+        "Health insurance coverage",
+        "Counseling services",
+        "Fitness programs"
+      ],
+      "other": [
+        "ATM and banking facilities",
+        "Post office",
+        "Bookstore",
+        "Convenience store"
+      ]
+    },
+    "accommodation": {
+      "hostel_facility": "Mandatory for all students",
+      "hostel_fee": "Included in program fees",
+      "room_types": "Single and double occupancy",
+      "amenities": "WiFi, furniture, attached washroom",
+      "food": "Vegetarian and non-vegetarian options"
+    }
+  },
+  "placements": {
+    "overall_statistics": {
+      "placement_rate": "100%",
+      "average_salary": "₹20 LPA",
+      "highest_salary": "₹45+ LPA",
+      "median_salary": "₹18 LPA",
+      "international_placements": "20-25%"
+    },
+    "sector_wise_distribution": {
+      "consulting": "35%",
+      "finance": "25%",
+      "technology": "20%",
+      "fmcg": "10%",
+      "others": "10%"
+    },
+    "top_recruiters": {
+      "consulting": [
+        "McKinsey & Company",
+        "Boston Consulting Group (BCG)",
+        "Bain & Company",
+        "Deloitte",
+        "Accenture",
+        "EY",
+        "KPMG"
+      ],
+      "finance": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "ICICI Bank",
+        "Axis Bank",
+        "HDFC Bank",
+        "State Bank of India",
+        "CITI"
+      ],
+      "technology": [
+        "Amazon",
+        "Microsoft",
+        "Google",
+        "Flipkart",
+        "TCS",
+        "Infosys",
+        "Capgemini"
+      ],
+      "fmcg": [
+        "Unilever",
+        "Nestlé",
+        "ITC",
+        "Britannia",
+        "Procter & Gamble"
+      ]
+    },
+    "placement_process": {
+      "timing": "September-November (final year)",
+      "format": "On-campus recruitment",
+      "stages": [
+        "Company presentations",
+        "Written tests",
+        "Group discussions",
+        "Personal interviews",
+        "Offer letters"
+      ]
+    }
+  },
+  "student_life": {
+    "clubs_and_societies": [
+      "Entrepreneurship Club",
+      "Finance Club",
+      "Marketing Club",
+      "Operations Club",
+      "Analytics Club",
+      "Sports Club",
+      "Cultural Club",
+      "Social Responsibility Club",
+      "Alumni Association",
+      "Case Competition Club"
+    ],
+    "events_and_activities": [
+      "Annual Management Fest (Conclave)",
+      "Case Competition",
+      "Business Plan Competition",
+      "Cultural Night",
+      "Sports Day",
+      "Orientation Program",
+      "Guest lectures by industry leaders",
+      "Workshops and seminars",
+      "Internship fairs",
+      "Women Empowering Women events"
+    ],
+    "diversity": {
+      "international_students": "From 20+ countries",
+      "domestic_students": "From 50+ states/UTs in India",
+      "gender_ratio": "Approximately 40:60 (Female:Male)",
+      "background_diversity": "Engineering, Commerce, Science, Humanities"
+    },
+    "student_support": [
+      "Career counseling",
+      "Academic support",
+      "Mental health services",
+      "Mentorship programs",
+      "Alumni network"
+    ]
+  },
+  "executive_programs": {
+    "categories": [
+      "Degree and Diploma Programmes",
+      "Long Duration Certificate Programmes",
+      "Short Duration Certificate Programmes",
+      "International Programmes"
+    ],
+    "notable_programs": [
+      {
+        "name": "Chief Operating Officer (COO) Certificate Programme",
+        "format": "Online",
+        "frequency": "Batch 02 starting October 2025",
+        "schedule": "Every Sunday",
+        "focus": "Operational excellence and leadership"
+      },
+      {
+        "name": "Advanced Programme in CSR and Sustainable Strategic Leadership",
+        "type": "Certificate Programme",
+        "focus": "Corporate Social Responsibility and Sustainability"
+      },
+      {
+        "name": "Programmes for Defence Officers",
+        "type": "Long Duration Certificate",
+        "target": "Defence personnel"
+      },
+      {
+        "name": "Faculty Development Programme (FDP)",
+        "duration": "5 weeks",
+        "type": "Residential",
+        "target": "Faculty from management institutions",
+        "edition": "15th edition in 2025"
+      },
+      {
+        "name": "Executive Programmes in Health & Hospital Management",
+        "collaboration": "AIIMS Bhopal",
+        "focus": "Healthcare management"
+      }
+    ]
+  },
+  "collaborations_and_partnerships": {
+    "international_collaborations": [
+      "University of Massachusetts, USA",
+      "Erasmus University, Netherlands",
+      "University of Cologne, Germany",
+      "Bocconi University, Italy",
+      "ESSEC Business School, France"
+    ],
+    "domestic_collaborations": [
+      "AIIMS Bhopal (Health & Hospital Management programs)"
+    ],
+    "international_programs": "Partnerships for student exchange and faculty development"
+  },
+  "governance": {
+    "board_of_governors": "Oversight body",
+    "committees": "Various committees for academic and administrative functions",
+    "director": "Head of the institution",
+    "act_and_rules": "Governed by The Indian Institutes of Management Act, 2017"
+  },
+  "news_and_events": {
+    "recent_highlights": [
+      "Eduniversal World Convention 2025 participation",
+      "Expansion of international collaborations",
+      "Women Empowering Women events",
+      "ITEC Executive Course on Digital Public Infrastructure",
+      "India at 2047: Amrit Kaal Event"
+    ],
+    "news_portal": "Regular updates on institution activities",
+    "event_calendar": "Ongoing events and programs throughout the year"
+  },
+  "faqs": {
+    "q1": "What is the eligibility for IIM Indore MBA (PGP)?",
+    "a1": "Bachelor's degree from any discipline with minimum 50% marks and a valid CAT score. Work experience is not mandatory.",
+    
+    "q2": "What is the average placement salary at IIM Indore?",
+    "a2": "The average placement salary is ₹20 LPA with the highest reaching ₹45+ LPA. The median salary is ₹18 LPA.",
+    
+    "q3": "Is there hostel facility at IIM Indore?",
+    "a3": "Yes, on-campus hostel accommodation is mandatory and available for all students. The hostel fee is included in the program fees.",
+    
+    "q4": "How many students are admitted each year?",
+    "a4": "IIM Indore admits 240 students in the PGP (MBA) program annually in two batches of 120 each.",
+    
+    "q5": "What is the course duration?",
+    "a5": "The MBA (PGP) program is 2 years long with 4 semesters. The IPM program is 5 years, and EPGP is 1 year.",
+    
+    "q6": "Are there scholarships available?",
+    "a6": "Yes, merit-based, need-based, and category-based scholarships are available. 40-50% of the batch receives some form of financial aid.",
+    
+    "q7": "What is the total program fee?",
+    "a7": "The total fee for PGP (2 years) is ₹24 lakhs. This includes tuition, hostel, meals, and activities.",
+    
+    "q8": "What are the specializations available?",
+    "a8": "PGP students can specialize in Finance, Marketing, Operations, Strategy, Business Analytics, or General Management.",
+    
+    "q9": "What is the placement rate?",
+    "a9": "IIM Indore has achieved 100% placement rate for the last several batches.",
+    
+    "q10": "How is the selection process conducted?",
+    "a10": "Selection is based on CAT score (60%), academic profile (20%), work experience (10%), and diversity (10%). Shortlisted candidates go through GD and PI rounds.",
+    
+    "q11": "Are there international placements?",
+    "a11": "Yes, 20-25% of the batch gets placed internationally in countries like USA, UK, Singapore, and other developed nations.",
+    
+    "q12": "What is the IPMAT exam for IPM admission?",
+    "a12": "IPMAT is IIM Indore's entrance test for the 5-year Integrated Programme in Management. It's open to 12th pass students from any stream.",
+    
+    "q13": "Can I pursue EPGP if I have 5 years of work experience?",
+    "a13": "Yes, EPGP is specifically designed for professionals with 5+ years of work experience. It's a 1-year program with flexible weekend classes.",
+    
+    "q14": "What are the top recruiters at IIM Indore?",
+    "a14": "Top recruiters include McKinsey, Goldman Sachs, Amazon, Microsoft, Deloitte, Accenture, Flipkart, Unilever, and major banks like ICICI and Axis.",
+    
+    "q15": "Is work experience mandatory for PGP admission?",
+    "a15": "No, work experience is not mandatory for PGP admission. Fresh graduates are welcome to apply with a valid CAT score.",
+    
+    "q16": "What research opportunities are available?",
+    "a16": "IIM Indore offers Doctoral Programme in Management (DPM) and Executive Doctoral Programme in Management (EDPM) for research-focused candidates.",
+    
+    "q17": "Are there executive programs for working professionals?",
+    "a17": "Yes, IIM Indore offers EPGP, PGPMX, and various certificate programs for working professionals.",
+    
+    "q18": "What is the faculty composition?",
+    "a18": "IIM Indore has 80 faculty members with PhDs from top international universities across 9 departments.",
+    
+    "q19": "What are the international collaborations?",
+    "a19": "IIM Indore collaborates with universities in USA, Netherlands, Germany, Italy, and France for student exchange and faculty development.",
+    
+    "q20": "How can I contact IIM Indore?",
+    "a20": "Email: admissions@iimidr.ac.in, Phone: +91-731-2439999, Website: https://www.iimidr.ac.in"
+  }
+}
