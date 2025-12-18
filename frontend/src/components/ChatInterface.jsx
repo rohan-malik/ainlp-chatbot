@@ -53,7 +53,8 @@ const ChatInterface = forwardRef(({ style, language, temperature }, ref) => {
         content: m.text,
       }));
 
-      const response = await axios.post('http://localhost:5001/api/chat', {
+      const backendUrl = import.meta.env.VITE_API_URL || 'http://localhost:5001';
+      const response = await axios.post(`${backendUrl}/api/chat`, {
         message: messageText,
         language,
         style,
