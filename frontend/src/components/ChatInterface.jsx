@@ -114,10 +114,16 @@ const ChatInterface = forwardRef(({ style, language, temperature }, ref) => {
           content: m.text,
         }));
 
-      const response = await axios.post('/api/chat', {
+      // Use production backend URL
+      const backendUrl = window.location.hostname === 'localhost' 
+        ? 'http://localhost:5001'
+        : 'https://ainlp-chatbot-backend.onrender.com';
+
+      const response = await axios.post(`${backendUrl}/api/chat`, {
         message: input,
         language,
         style,
+        temperature,
         conversationHistory,
       }, {
         timeout: 30000, // 30 second timeout
