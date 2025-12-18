@@ -53,7 +53,11 @@ const ChatInterface = forwardRef(({ style, language, temperature }, ref) => {
         content: m.text,
       }));
 
-      const backendUrl = 'https://ainlp-chatbot-backend.onrender.com';
+      // Use production backend URL
+      const backendUrl = window.location.hostname === 'localhost' 
+        ? 'http://localhost:5001'
+        : 'https://ainlp-chatbot-backend.onrender.com';
+      
       const response = await axios.post(`${backendUrl}/api/chat`, {
         message: messageText,
         language,
